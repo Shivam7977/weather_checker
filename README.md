@@ -1,6 +1,8 @@
 ﻿# weather_checker
 Copy🌤️ SkyPulse — Live Weather Dashboard
 A sleek, minimal weather dashboard that delivers real-time weather data for any city in the world — built with pure HTML, CSS, and JavaScript.
+
+
 <img width="1891" height="908" alt="Image" src="https://github.com/user-attachments/assets/3a681f1b-c2f5-4729-bf87-4d8bba26ffa3" />
 
 
