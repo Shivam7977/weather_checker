@@ -1,1 +1,2 @@
 Improved weather UI
+Added loading indicator
